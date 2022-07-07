@@ -113,11 +113,13 @@ body{
     font-weight: 400;
     margin-bottom: 50px;
 }
-.donate-content span{
+input[type=text] {
     font-size: 18px;
-    line-height: 28px;
-    font-weight: 400;
-    margin-bottom: 15px;
+    display: block;
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+    border: none;
 }
 .donate-content hr{
     margin-bottom: 30px;
